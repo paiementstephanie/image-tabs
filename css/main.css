@@ -44,3 +44,9 @@ html {
 .toggle:hover{
 	background-color: grey;
 }
+
+.panel {
+	display: none;
+	text-align: center;
+}
+
