@@ -19,7 +19,7 @@ html {
 }
 
 
-.toggle{
+.toggle {
   width: 15px;
   height: 15px;
   border-radius: 100%;
@@ -27,7 +27,7 @@ html {
   display:inline-block;
 }
 
-.tabs{
+.tabs {
   list-style-type:none;
   margin: 0;
   padding: 0;
@@ -36,11 +36,11 @@ html {
   top: 320px;
 }
 
-.tabs li{
+.tabs li {
   display: inline-block;
 }
 
-.toggle:hover{
+.toggle:hover {
   background-color: grey;
 }
 
@@ -49,10 +49,10 @@ html {
   text-align: center;
 }
 
-.panel:target{
+.panel:target {
   display:block;
 }
 
-body{
+body {
   padding-top: 4em;
 }
