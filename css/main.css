@@ -21,11 +21,11 @@ html {
 
 
 .toggle{
-	position: absolute;
 	width: 15px;
 	height: 15px;
 	border-radius: 100%;
 	border: 4px grey solid;
+	display:inline-block;
 }
 
 .tabs{
