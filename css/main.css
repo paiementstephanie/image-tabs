@@ -40,3 +40,7 @@ html {
 .tabs li{
 	display: inline-block;
 }
+
+.toggle:hover{
+	background-color: grey;
+}
