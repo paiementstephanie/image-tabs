@@ -24,11 +24,11 @@ html {
   height: 15px;
   border-radius: 100%;
   border: 4px grey solid;
-  display:inline-block;
+  display: inline-block;
 }
 
 .tabs {
-  list-style-type:none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -50,7 +50,7 @@ html {
 }
 
 .panel:target {
-  display:block;
+  display: block;
 }
 
 body {
