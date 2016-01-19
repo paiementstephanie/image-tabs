@@ -28,3 +28,15 @@ html {
 	border: 4px grey solid;
 }
 
+.tabs{
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	right: 50%;
+	top: 320px;
+}
+
+.tabs li{
+	display: inline-block;
+}
