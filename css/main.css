@@ -5,3 +5,11 @@
 @viewport { width: device-width; scale: 1; }
 
 
+.toggle{
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	border-radius: 100%;
+	border: 4px grey solid;
+}
+
